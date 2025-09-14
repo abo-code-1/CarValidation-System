@@ -1,0 +1,9 @@
+ultralytics==8.3.199
+torch>=2.8.0
+torchvision>=0.23.0
+opencv-python
+matplotlib
+numpy
+pandas
+tqdm
+pyyaml
